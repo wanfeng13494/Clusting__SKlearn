@@ -12,8 +12,8 @@ Spatial Clustering of Applications with Noise)算法
 结果表明得到的成员星是可靠的.
 
 # 部署操作
-1.将.ipynb文件导入到自己的jupyter notebook中
-2.下载Gaia-DR3数据
-3.将代码中涉及到数据地址的语句改成自己的本地数据地址
-4.补充下载代码中所需要的第三方库
-5.运行
+## 1.将.ipynb文件导入到自己的jupyter notebook中
+## 2.下载Gaia-DR3数据
+## 3.将代码中涉及到数据地址的语句改成自己的本地数据地址
+## 4.补充下载代码中所需要的第三方库
+## 5.运行
